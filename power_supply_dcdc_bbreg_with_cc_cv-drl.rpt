@@ -1,0 +1,30 @@
+Drill report for C:\Users\YAWAR\Documents\kicad\power_supply_dcdc_bbreg_with_cc_cv\power_supply_dcdc_bbreg_with_cc_cv.kicad_pcb
+Created on 02/20/19 18:40:24
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'power_supply_dcdc_bbreg_with_cc_cv-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.40mm  0.016"  (35 holes)
+    T2  0.60mm  0.024"  (2 holes)
+    T3  0.75mm  0.030"  (9 holes)
+    T4  0.80mm  0.031"  (54 holes)
+    T5  1.00mm  0.039"  (6 holes)
+    T6  1.10mm  0.043"  (3 holes)
+    T7  1.20mm  0.047"  (4 holes)
+    T8  1.60mm  0.063"  (2 holes)
+
+    Total plated holes count 115
+
+
+Drill file 'power_supply_dcdc_bbreg_with_cc_cv-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  3.50mm  0.138"  (1 hole)
+
+    Total unplated holes count 1
